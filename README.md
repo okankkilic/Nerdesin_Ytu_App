@@ -1,16 +1,3 @@
-# nerdesin_ytu
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![derslerPage](https://github.com/okankkilic/Nerdesin_Ytu_App/assets/123747399/ba127baa-4c1f-4ec4-bd55-08dde3b35d10)
+![nerdesinPage](https://github.com/okankkilic/Nerdesin_Ytu_App/assets/123747399/468f4c5e-28cf-4f89-b69b-69b51b614dbb)
+![profilePage](https://github.com/okankkilic/Nerdesin_Ytu_App/assets/123747399/102c2489-aad3-4712-b168-811c7da59e83)
