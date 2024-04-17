@@ -1,6 +1,4 @@
-|  |  |  |
-| --- | --- | --- |
-| ![Dersler Sayfası](assets/images/screenshots/derslerPage.jpg) | ![Nerdesin Sayfası](assets/images/screenshots/nerdesinPage.jpg) | ![Profil Sayfası](assets/images/screenshots/profilePage.jpg) |
-
-
-
+|  |  |
+| --- | --- |
+| <img src="assets/images/screenshots/derslerPage.jpg" width="200"> | <img src="assets/images/screenshots/nerdesinPage.jpg" width="200"> |
+| <img src="assets/images/screenshots/profilePage.jpg" width="200"> | <img src="assets/images/screenshots/burdayımPage.jpg" width="200"> |
